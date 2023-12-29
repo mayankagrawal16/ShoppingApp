@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    // Action bar is the top most element of our display part.
+    <style name="Base.Theme.E_Commerce_App" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimaryDark">@color/green</item>
+    </style>
+
+    <style name="Theme.E_Commerce_App" parent="Base.Theme.E_Commerce_App" />
+</resources>
